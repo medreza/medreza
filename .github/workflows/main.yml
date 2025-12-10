@@ -20,6 +20,8 @@ jobs:
           commits_authoring: Ahmed Reza Rafsanzani, medreza
           plugin_languages_ignored: C
           plugin_languages_details: percentage
-          base: header
+          base: header, repositories, metadata
           plugin_lines: yes
+          repositories_forks: yes
+          base_hireable: yes
           token: ${{ secrets.METRICS_TOKEN }}
