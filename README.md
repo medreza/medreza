@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**medreza/medreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Reza, a father and a Software Engineer with a passion for building impactful things.
 
-Here are some ideas to get you started:
+I'm currently on a short career break since my last role at [AccelByte](https://accelbyte.io/) in Nov 2025, but I'm looking to get back in the game in early 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm into:
+- Building scalable web apps/services (especially backend, with microservices architecture, deployed on cloud platform)
+- Solving real world problems
+- Learning how something works (and how to break it)
+- Remote working (I can organize myself pretty well, and I like clear & concise communication)
+- 🍜 Indomie (with 2 tablespoons of rice)
+- Embedded systems and IoT (I'm good at soldering too, trust me)
+
+---
+
+![Metrics](https://raw.githubusercontent.com/medreza/medreza/main/github-metrics.svg)
